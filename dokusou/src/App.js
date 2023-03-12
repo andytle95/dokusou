@@ -1,6 +1,6 @@
 import Navbar from './container/Navbar';
 import './App.css';
-
+//main page.
 function App() {
   return (
     <div className="App">
