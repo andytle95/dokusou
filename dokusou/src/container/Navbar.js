@@ -1,8 +1,22 @@
+import React from 'react';
 import './Navbar.css'
 
 let Navbar = () => {
     return (
-    <h1>Gregg is gay</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href='#'>Home</a>
+                </li>
+                <li>
+                    <a href='#'>About</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+            <div>Logo</div>
+        </nav>
     );
 }
 
