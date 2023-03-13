@@ -5,6 +5,8 @@ import './../App.css'
 //need to make functionality where when the text logo is clicked,
 // we are brought back up to the top of the page.
 
+//first need to add a border and background to the logo.
+
 let Navbar = () => {
     return (
         <nav>
