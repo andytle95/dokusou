@@ -1,3 +1,14 @@
+.logo {
+    font-family: "Nagayama", sans-serif;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    width: 100%;
+    max-width: 200px;
+}
+
 h1 {
     background-color: rgb(176, 165, 148);
     color: aliceblue;
@@ -38,4 +49,14 @@ a:hover {
 div {
     font-size: 2rem;
     font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    .logo {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        padding: 20px;
+        max-width: none;
+    }
 }

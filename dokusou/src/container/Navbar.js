@@ -1,10 +1,15 @@
 import React from 'react';
 import './Navbar.css'
+import './../App.css'
+
+//need to make functionality where when the text logo is clicked,
+// we are brought back up to the top of the page.
 
 let Navbar = () => {
     return (
         <nav>
-            <ul>
+            <a class="logo" href="#">THE DOKUSOU CAST</a>
+            {/* <ul>
                 <li>
                     <a href='#'>Home</a>
                 </li>
@@ -14,7 +19,7 @@ let Navbar = () => {
                 <li>
                     <a href="#">Contact</a>
                 </li>
-            </ul>
+            </ul> */}
             {/* <div>Logo</div> */}
         </nav>
     );
