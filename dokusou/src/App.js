@@ -1,11 +1,13 @@
 import Navbar from './container/Navbar';
+import Main from './container/Main'
 import './App.css';
 //main page.
+
 function App() {
   return (
     <div className="App">
-      {/* <h1>Dokusou</h1> */}
       <Navbar />
+      <Main />
     </div>
   );
 }

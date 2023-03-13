@@ -15,7 +15,7 @@ let Navbar = () => {
                     <a href="#">Contact</a>
                 </li>
             </ul>
-            <div>Logo</div>
+            {/* <div>Logo</div> */}
         </nav>
     );
 }

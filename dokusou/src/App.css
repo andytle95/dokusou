@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Manga Temple";
+  src: url("./../public/fonts/manga-temple-font/MangaTemple-xD5.ttf")format("truetype");
+}
+
+
 * {
   background-color: #605743;
 }

@@ -7,8 +7,8 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #333;
-    color: #fff;
+    /* background-color: #333; */
+    color: black;
     padding: 1rem;
 }
 
@@ -25,7 +25,7 @@ li {
 }
 
 a {
-    color: #fff;
+    color: #9a8181;
     text-decoration: none;
     font-weight: bold;
     transition: all 0.3s ease;

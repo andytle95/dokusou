@@ -1,0 +1,10 @@
+
+h1 {
+    font-family: "Manga Temple", sans-serif;
+    font-size: 45px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+}
