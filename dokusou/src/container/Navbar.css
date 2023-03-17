@@ -53,6 +53,8 @@ div {
     font-weight: bold;
 }
 
+/* adjusted to size */
+
 @media (min-width: 768px) {
     .logo {
         position: absolute;
