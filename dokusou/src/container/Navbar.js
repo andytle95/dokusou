@@ -7,6 +7,8 @@ import './../App.css'
 
 //first need to add a border and background to the logo.
 
+//need to find appropriate color for the navbar.
+
 let Navbar = () => {
     return (
         <nav>
