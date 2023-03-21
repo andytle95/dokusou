@@ -11,7 +11,7 @@ import './../App.css'
 
 let Navbar = () => {
     return (
-        <nav>
+        <nav className='navbar'>
             <a class="logo" href="#">THE DOKUSOU CAST</a>
             {/* <ul>
                 <li>
