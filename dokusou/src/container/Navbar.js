@@ -9,6 +9,8 @@ import './../App.css'
 
 //need to find appropriate color for the navbar
 
+// anday
+
 let Navbar = () => {
     return (
         <nav className='navbar'>
