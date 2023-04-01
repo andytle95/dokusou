@@ -3,7 +3,7 @@ import Navbar from './container/Navbar';
 import './App.css';
 //main page.
 // back on grind
-//need to focus.
+//need to focus..
 function App() {
   return (
     <div className="App">
