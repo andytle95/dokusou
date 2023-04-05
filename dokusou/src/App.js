@@ -4,6 +4,7 @@ import './App.css';
 //main page.
 // back on grind
 //need to focus..
+//back on grind again.
 function App() {
   return (
     <div className="App">
